@@ -176,3 +176,65 @@ This repository contains code and resources related to the following key web dev
 ## 📁 Repository Structure
 
 The repository is organized to mirror the structure of the course content. You will typically find:
+Sigma-Web-Dev-Course-main/
+├── 01_HTML/ # Code examples and projects for HTML (Tutorials 1-13)
+├── 02_CSS/ # Code examples and projects for CSS (Tutorials 14-51)
+├── 03_JavaScript/ # Code examples and projects for JavaScript (Tutorials 54-83)
+├── 04_React/ # Code examples and projects for React JS (Tutorials 105-120)
+├── 05_Node_Express_MongoDB/ # Code examples and projects for Backend (MERN Stack) (Tutorials 85-97)
+├── 06_Next.js/ # Code examples and projects for Next.js (Tutorials 121-138)
+├── Projects/ # Larger, integrated projects built during the course
+├── Notes/ # Important notes, summaries, and cheat sheets
+└── README.md # This file
+
+
+Each module folder (01_HTML, 02_CSS, etc.) will contain subfolders or files corresponding to specific lectures or topics within that module.
+
+## 🛠️ Prerequisites
+
+To make the most of this course and repository, you should have:
+- A computer with a modern web browser
+- A stable internet connection
+- Basic understanding of how to use a computer and navigate files
+- (Recommended) A code editor like VS Code installed
+
+## 🚀 Getting Started
+
+To get started with the code examples and projects in this repository:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/himanshudash132/Sigma-Web-Dev-Course-main.git
+
+2. Navigate to the project directory:
+   ```bash
+    cd Sigma-Web-Dev-Course-main
+   
+3. Explore the content: Browse through the folders to find the code for specific lessons and projects.
+
+💡 How to Use This Repository
+Follow Along: Clone the repo and code along with Harry's lessons, referring to the code here if you get stuck or want to compare your solution.
+
+Practice: Modify the existing code, build new features, or create your own projects based on the concepts learned.
+
+Reference: Use this repository as a quick reference for syntax, common patterns, and project structures.
+
+Review: Revisit specific topics by looking at the code examples for a quick refresher.
+
+🤝 Contributions
+This repository is primarily for the course content. While direct contributions to the course code might not be accepted, feel free to fork the repository, experiment, and use it as a base for your own learning projects.
+
+If you find any issues, typos, or have suggestions for improvements, please open an issue!
+
+📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+🙏 Acknowledgements
+A huge thank you to Code With Harry for providing this valuable web development course to the community!
+
+Code With Harry YouTube Channel
+
+Sigma Web Dev Course Playlist
+
+Happy Coding! 💻✨
+
